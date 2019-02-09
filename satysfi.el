@@ -6,23 +6,23 @@
 
 
 (defface satysfi-row-command-face
-  '((t (:foreground "#8888ff" :background "dark")))
+  '((t (:foreground "#8888ff")))
   "SATySFi row command")
 
 (defface satysfi-column-command-face
-  '((t (:foreground "#ff8888" :background "dark")))
+  '((t (:foreground "#ff8888")))
   "SATySFi column command")
 
 (defface satysfi-var-in-string-face
-  '((t (:foreground "#44ff88" :background "dark")))
+  '((t (:foreground "#44ff88")))
   "SATySFi variable in string")
 
 (defface satysfi-escaped-character
-  '((t (:foreground "#cc88ff" :background "dark")))
+  '((t (:foreground "#cc88ff")))
   "SATySFi escaped character")
 
 (defface satysfi-literal-area
-  '((t (:foreground "#ffff44" :background "dark")))
+  '((t (:foreground "#ffff44")))
   "SATySFi literal area")
 
 (defvar satysfi-pdf-viewer-command "open")
